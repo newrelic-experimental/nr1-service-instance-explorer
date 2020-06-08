@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "nr1-service-instance-explorer",
-    "version": "1.19.5",
+    "version": "1.19.6",
     "scripts": {
         "start": "nr1 nerdpack:serve",
         "test": "exit 0",
