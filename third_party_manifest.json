@@ -1,0 +1,8 @@
+{
+  "lastUpdated": "Mon Jun 08 2020 14:20:49 GMT-0400 (Eastern Daylight Time)",
+  "projectName": "nr1-service-instance-explorer",
+  "projectUrl": "https://github.com/newrelic-experimental/nr1-service-instance-explorer",
+  "includeDev": true,
+  "dependencies": {},
+  "devDependencies": {}
+}
