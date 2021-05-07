@@ -17,7 +17,7 @@
         "react": "^16.6.3",
         "react-dom": "^16.6.3",
         "react-js-banner": "^0.3.0",
-        "underscore": "^1.9.2"
+        "underscore": "^1.12.1"
     },
     "browserslist": [
         "last 2 versions",
